@@ -28,9 +28,9 @@ body {
   transform: scale(1.1);
 }
 
-.pink { background-color: #fde2e4; }
-.peach { background-color: #ffe5b4; }
-.lavender { background-color: #e6e6fa; }
-.mint { background-color: #e0f7ea; }
-.blue { background-color: #e0f0ff; }
-.gray { background-color: #eeeeee; }
+.red { background-color: #fe5f0b; }
+.chartreuse { background-color: #acb222; }
+.peachy { background-color: #f7ab54; }
+.lavender { background-color: #b4acd6; }
+.cyan { background-color: #00b7bd; }
+.navy { background-color: #00495f; }
